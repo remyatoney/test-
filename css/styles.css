@@ -1,0 +1,11 @@
+body .contact {
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
+.signuperror {
+    color: red;
+}
+.signupsuccess {
+    color: green;
+}
